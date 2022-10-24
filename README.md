@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CollinsMwambi
+- 👋 Hi, I’m @Collins Mwambi
 - 🌱 I’m currently learning at Strathmore University, pursuing a Computer Science degree
 - 📫 How to reach me Collins.mwambi1@gmail.com
 
